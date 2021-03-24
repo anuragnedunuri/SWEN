@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@mipmap/baseline_home_black_20"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@mipmap/baseline_feed_black_20"
+        android:title="@string/title_myswen" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@mipmap/baseline_face_black_20"
+        android:title="@string/title_account" />
+
+</menu>
